@@ -7,7 +7,7 @@ Este repositorio aloja diferentes códigos en formato **MATLAB** (software comer
 
 A continuación se detalla el software contenido en cada carpeta del repositorio:
 
-### Práctica 1
+### Práctica 1: Sistemas continuos.
 
 Esta práctica se centra en realizar una representación gráfica de la operación **convolución**, muy utilizada en el procesamiento de señales. Para ello, la práctica propone al estudiante que interactúe con una interfaz del repositorio, introduciendo diferentes señales y obteniendo el resultado de la convolución. 
 
