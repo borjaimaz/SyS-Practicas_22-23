@@ -15,7 +15,7 @@ Esta práctica se centra en realizar una representación gráfica de la operaci�
 
 **Esta carpeta se compone de los siguientes ficheros:**
 - **Practica1.pdf**: Guión de la práctica, con los enunciados y manual de usuario de la interfaz.
-- **codigo**: Carpeta que contiene todos los ficheros que utiliza la herramienta de convolución. Para su ejecución, es preciso ejecutar el fichero **Practica2.m** que se encuentra en esta carpeta.
+- **codigo.zip**: Carpeta que contiene todos los ficheros que utiliza la herramienta de convolución. Para su ejecución, es preciso ejecutar el fichero **Practica2.m** que se encuentra en esta carpeta. Es preciso descomprimir el fichero para su correcto funcionamiento.
 
 ### Práctica 2
 
